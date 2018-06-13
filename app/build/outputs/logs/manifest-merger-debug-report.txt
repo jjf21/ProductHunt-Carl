@@ -1,0 +1,136 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Carl/Desktop/ProductHunt-Carl/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/Carl/Desktop/ProductHunt-Carl/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/Carl/Desktop/ProductHunt-Carl/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/Carl/Desktop/ProductHunt-Carl/app/src/main/AndroidManifest.xml:2:1-35:12
+MERGED from [com.android.support:design:27.1.0] /Users/Carl/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/ebb9ae23605168925b2a0f8c27c39234/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/Carl/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/72751c2b3d694da5e16b45993563a6cd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Carl/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/11b894744bd49ca06ed040f3dba14a28/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/Carl/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/76ce3654e7e664ce5faad4f44b1faadb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/Carl/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/3d305d7d2617c10cc36f4c078712d6e1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/Carl/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/953d61e13bb17fcf97f59ae63615f7e8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /Users/Carl/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/cdcd17e06a71a2f1db7d0dec7ace7ca4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.0] /Users/Carl/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/1a3d6dfd54d41942e844e1a844c2d4ee/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/Carl/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/890892078e58a1bdbf8a64721a2cc490/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/Carl/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/6dd6401d42c1fc7a3c0d5ce29e56df5c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/Carl/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/648f8d082a5473772c2c21439de4b8cf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/Carl/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/7f8b7af9d3e1fbf7a4665c10b5829c02/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/Carl/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/d2412dfcbf45963e461cd92c9658e068/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/Carl/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/6a3aa9bba6d6fca130bb4f81dcc80817/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/Carl/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/d2daf5974df03131b7b1204d2e206096/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/Carl/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/54e21c7b166f7de82aa9fce03ec10c0c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/Carl/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c8830fade65d85c1ed5437e6546098cd/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/Carl/Desktop/ProductHunt-Carl/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/Carl/Desktop/ProductHunt-Carl/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/Carl/Desktop/ProductHunt-Carl/app/src/main/AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from /Users/Carl/Desktop/ProductHunt-Carl/app/src/main/AndroidManifest.xml:2:11-38
+		INJECTED from /Users/Carl/Desktop/ProductHunt-Carl/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Carl/Desktop/ProductHunt-Carl/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Carl/Desktop/ProductHunt-Carl/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Carl/Desktop/ProductHunt-Carl/app/src/main/AndroidManifest.xml:2:1-35:12
+		INJECTED from /Users/Carl/Desktop/ProductHunt-Carl/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/Carl/Desktop/ProductHunt-Carl/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Carl/Desktop/ProductHunt-Carl/app/src/main/AndroidManifest.xml:2:1-35:12
+		INJECTED from /Users/Carl/Desktop/ProductHunt-Carl/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Carl/Desktop/ProductHunt-Carl/app/src/main/AndroidManifest.xml:3:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/Carl/Desktop/ProductHunt-Carl/app/src/main/AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from /Users/Carl/Desktop/ProductHunt-Carl/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/Carl/Desktop/ProductHunt-Carl/app/src/main/AndroidManifest.xml:7:5-33:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Carl/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/11b894744bd49ca06ed040f3dba14a28/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Carl/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/11b894744bd49ca06ed040f3dba14a28/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/Carl/Desktop/ProductHunt-Carl/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/Carl/Desktop/ProductHunt-Carl/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /Users/Carl/Desktop/ProductHunt-Carl/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /Users/Carl/Desktop/ProductHunt-Carl/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/Carl/Desktop/ProductHunt-Carl/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/Carl/Desktop/ProductHunt-Carl/app/src/main/AndroidManifest.xml:13:9-40
+activity#fr.ec.producthunt.ui.home.MainActivity
+ADDED from /Users/Carl/Desktop/ProductHunt-Carl/app/src/main/AndroidManifest.xml:14:9-23:20
+	android:label
+		ADDED from /Users/Carl/Desktop/ProductHunt-Carl/app/src/main/AndroidManifest.xml:17:13-45
+	android:theme
+		ADDED from /Users/Carl/Desktop/ProductHunt-Carl/app/src/main/AndroidManifest.xml:16:13-56
+	android:name
+		ADDED from /Users/Carl/Desktop/ProductHunt-Carl/app/src/main/AndroidManifest.xml:15:13-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/Carl/Desktop/ProductHunt-Carl/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /Users/Carl/Desktop/ProductHunt-Carl/app/src/main/AndroidManifest.xml:19:17-68
+	android:name
+		ADDED from /Users/Carl/Desktop/ProductHunt-Carl/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Carl/Desktop/ProductHunt-Carl/app/src/main/AndroidManifest.xml:21:17-76
+	android:name
+		ADDED from /Users/Carl/Desktop/ProductHunt-Carl/app/src/main/AndroidManifest.xml:21:27-74
+activity#fr.ec.producthunt.ui.detail.DetailActivity
+ADDED from /Users/Carl/Desktop/ProductHunt-Carl/app/src/main/AndroidManifest.xml:24:9-25:20
+	android:name
+		ADDED from /Users/Carl/Desktop/ProductHunt-Carl/app/src/main/AndroidManifest.xml:24:19-59
+service#fr.ec.producthunt.data.SyncService
+ADDED from /Users/Carl/Desktop/ProductHunt-Carl/app/src/main/AndroidManifest.xml:27:9-30:19
+	android:exported
+		ADDED from /Users/Carl/Desktop/ProductHunt-Carl/app/src/main/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from /Users/Carl/Desktop/ProductHunt-Carl/app/src/main/AndroidManifest.xml:28:13-45
+uses-sdk
+INJECTED from /Users/Carl/Desktop/ProductHunt-Carl/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/Carl/Desktop/ProductHunt-Carl/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Carl/Desktop/ProductHunt-Carl/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.0] /Users/Carl/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/ebb9ae23605168925b2a0f8c27c39234/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.0] /Users/Carl/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/ebb9ae23605168925b2a0f8c27c39234/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/Carl/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/72751c2b3d694da5e16b45993563a6cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/Carl/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/72751c2b3d694da5e16b45993563a6cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Carl/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/11b894744bd49ca06ed040f3dba14a28/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Carl/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/11b894744bd49ca06ed040f3dba14a28/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] /Users/Carl/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/76ce3654e7e664ce5faad4f44b1faadb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/Carl/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/76ce3654e7e664ce5faad4f44b1faadb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/Carl/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/3d305d7d2617c10cc36f4c078712d6e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/Carl/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/3d305d7d2617c10cc36f4c078712d6e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/Carl/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/953d61e13bb17fcf97f59ae63615f7e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/Carl/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/953d61e13bb17fcf97f59ae63615f7e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /Users/Carl/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/cdcd17e06a71a2f1db7d0dec7ace7ca4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /Users/Carl/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/cdcd17e06a71a2f1db7d0dec7ace7ca4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] /Users/Carl/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/1a3d6dfd54d41942e844e1a844c2d4ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] /Users/Carl/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/1a3d6dfd54d41942e844e1a844c2d4ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/Carl/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/890892078e58a1bdbf8a64721a2cc490/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/Carl/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/890892078e58a1bdbf8a64721a2cc490/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/Carl/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/6dd6401d42c1fc7a3c0d5ce29e56df5c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/Carl/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/6dd6401d42c1fc7a3c0d5ce29e56df5c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/Carl/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/648f8d082a5473772c2c21439de4b8cf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/Carl/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/648f8d082a5473772c2c21439de4b8cf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/Carl/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/7f8b7af9d3e1fbf7a4665c10b5829c02/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/Carl/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/7f8b7af9d3e1fbf7a4665c10b5829c02/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/Carl/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/d2412dfcbf45963e461cd92c9658e068/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/Carl/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/d2412dfcbf45963e461cd92c9658e068/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/Carl/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/6a3aa9bba6d6fca130bb4f81dcc80817/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/Carl/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/6a3aa9bba6d6fca130bb4f81dcc80817/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/Carl/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/d2daf5974df03131b7b1204d2e206096/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/Carl/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/d2daf5974df03131b7b1204d2e206096/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/Carl/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/54e21c7b166f7de82aa9fce03ec10c0c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/Carl/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/54e21c7b166f7de82aa9fce03ec10c0c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/Carl/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c8830fade65d85c1ed5437e6546098cd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/Carl/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c8830fade65d85c1ed5437e6546098cd/AndroidManifest.xml:20:5-44
+INJECTED from /Users/Carl/Desktop/ProductHunt-Carl/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Carl/Desktop/ProductHunt-Carl/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/Carl/Desktop/ProductHunt-Carl/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Carl/Desktop/ProductHunt-Carl/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Carl/Desktop/ProductHunt-Carl/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Carl/Desktop/ProductHunt-Carl/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Carl/Desktop/ProductHunt-Carl/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Carl/Desktop/ProductHunt-Carl/app/src/main/AndroidManifest.xml
